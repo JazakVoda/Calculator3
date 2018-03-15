@@ -1,0 +1,33 @@
+.container {
+    position: fixed;
+    top: 40%;
+    left: 40%;
+    background: #e2e2e2;
+    border: .5px solid black;
+    box-shadow: 0 0 100px gray;
+    padding: 30px;
+}
+.number {
+    margin-bottom: 20px;
+    outline-style: none;
+    box-shadow: 0 0 10px gray;
+    text-align: center;
+    margin-left: 12%;
+}
+.result {
+    margin-bottom: -10px;
+    width: 100px;
+    height: 30px;
+    cursor: auto;
+    box-shadow: 0 0 10px gray;
+    margin-left: 28%;
+    text-align: center; 
+}
+.equally {
+    width: 50px;
+    height: 30px;
+    cursor: pointer;
+    box-shadow: 0 0 10px gray;
+    margin-left: 40%;
+    margin-bottom: 20px;
+}
