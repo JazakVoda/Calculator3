@@ -36,5 +36,7 @@
                 operators.splice(add, 1);
                 add = operators.indexOf("+");
           }
+        num = numbers[0];
+        
         document.querySelector('.result').value = num;
     });
